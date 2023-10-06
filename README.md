@@ -1,5 +1,5 @@
 # BasicChestMove
-Only contain basic chess move
-No turn based applied
-No win condition applied
+Only contain basic chess move'\n'
+No turn based applied'\n'
+No win condition applied'\n'
 No AI applied
